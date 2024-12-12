@@ -1,0 +1,10 @@
+Requirements:
+psycopg2 library
+
+DB connection info:
+
+DATABASE_PUBLIC_URL: postgresql://postgres:EfOFAAZabDkkMOuuBrvHpwFILlrPUsHF@autorack.proxy.rlwy.net:56784/railway
+HOST/ADDRESS: autorack.proxy.rlwy.net
+PORT: 56784
+USERNAME: railway
+PASSWORD: EfOFAAZabDkkMOuuBrvHpwFILlrPUsHF
